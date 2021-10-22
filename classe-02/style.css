@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 100vh;
+
+    background-image: url(https://media.seudinheiro.com/cdn-cgi/image/fit=contain,width=640&,format=auto/uploads/2019/11/painel-criptomoedas-1920x1080-628x353.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+
+    font-family: sans-serif;
+}
+
+form {
+    background-color: rgba(255, 255, 255, .7);
+    padding: 30px;
+    border-radius: 10px;
+
+    width: 500px;
+}
